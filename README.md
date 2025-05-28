@@ -72,11 +72,6 @@ const developer = {
 
 ## 🎮 When I'm Not Coding
 
-<div align="center">
-  <img src="https://media.tenor.com/YWb_h3CmcIwAAAAC/geralt-of-rivia-the-witcher.gif" width="300" alt="Geralt of Rivia"/>
-  <img src="https://media.tenor.com/fSU3kPsGGC4AAAAC/berserk-guts.gif" width="300" alt="Guts from Berserk"/>
-</div>
-
 - 🎮 Gaming on PC/Console
 - 🏃‍♂️ Staying active and exploring new places
 
