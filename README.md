@@ -70,10 +70,7 @@ const developer = {
 
 
 
-## 🎮 When I'm Not Coding
 
-- 🎮 Gaming on PC/Console
-- 🏃‍♂️ Staying active and exploring new places
 
 ## 🤝 Let's Connect
 
